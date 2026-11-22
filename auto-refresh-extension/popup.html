@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <style>
+    body { width: 220px; padding: 16px; font-family: sans-serif; }
+    h3 { margin: 0 0 12px 0; text-align: center; }
+    .row { display: flex; align-items: center; justify-content: space-between; margin-bottom: 8px; }
+    .hint { color: #888; font-size: 12px; text-align: center; margin-top: 10px; }
+  </style>
+</head>
+<body>
+  <h3>自动刷新</h3>
+  <div class="row">
+    <span id="status">状态：运行中</span>
+    <button id="toggle">关闭</button>
+  </div>
+  <div class="hint">每20分钟刷新所有标签页</div>
+  <script src="popup.js"></script>
+</body>
+</html>

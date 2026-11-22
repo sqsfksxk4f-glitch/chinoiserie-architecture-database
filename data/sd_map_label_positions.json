@@ -1,0 +1,416 @@
+{
+  "Brunei Darussalam": {
+    "ox": 5.6,
+    "oy": -4.8,
+    "ha": "left",
+    "va": "center"
+  },
+  "India": {
+    "ox": -15.1,
+    "oy": 0.6,
+    "ha": "center",
+    "va": "center"
+  },
+  "Bhutan": {
+    "ox": 26.7,
+    "oy": 7.9,
+    "ha": "right",
+    "va": "center"
+  },
+  "Nepal": {
+    "ox": 5.4,
+    "oy": 6.2,
+    "ha": "right",
+    "va": "center"
+  },
+  "Myanmar": {
+    "ox": -10.6,
+    "oy": -10.6,
+    "ha": "right",
+    "va": "center"
+  },
+  "Singapore": {
+    "ox": -6.4,
+    "oy": -6.4,
+    "ha": "right",
+    "va": "center"
+  },
+  "Cambodia": {
+    "ox": 10.6,
+    "oy": 10.6,
+    "ha": "left",
+    "va": "center"
+  },
+  "Thailand": {
+    "ox": 3.2,
+    "oy": -19.4,
+    "ha": "right",
+    "va": "center"
+  },
+  "Lao People's Democratic Republic": {
+    "ox": 123.4,
+    "oy": -0.5,
+    "ha": "right",
+    "va": "center"
+  },
+  "Viet Nam": {
+    "ox": 0.0,
+    "oy": 9.0,
+    "ha": "center",
+    "va": "center"
+  },
+  "Republic of Korea": {
+    "ox": -9.0,
+    "oy": 0.0,
+    "ha": "right",
+    "va": "center"
+  },
+  "Democratic People's Republic of Korea": {
+    "ox": 13.0,
+    "oy": 20.2,
+    "ha": "center",
+    "va": "center"
+  },
+  "Malaysia": {
+    "ox": -9.0,
+    "oy": 0.0,
+    "ha": "right",
+    "va": "center"
+  },
+  "Indonesia": {
+    "ox": 0.0,
+    "oy": -9.0,
+    "ha": "center",
+    "va": "center"
+  },
+  "Japan": {
+    "ox": 9.0,
+    "oy": 0.0,
+    "ha": "left",
+    "va": "center"
+  },
+  "Philippines": {
+    "ox": 9.0,
+    "oy": 0.0,
+    "ha": "left",
+    "va": "center"
+  },
+  "Timor-Leste": {
+    "ox": 9.0,
+    "oy": 0.0,
+    "ha": "left",
+    "va": "center"
+  },
+  "Mongolia": {
+    "ox": -14.8,
+    "oy": 19.4,
+    "ha": "left",
+    "va": "center"
+  },
+  "Kazakhstan": {
+    "ox": 7.2,
+    "oy": 6.0,
+    "ha": "center",
+    "va": "center"
+  },
+  "Kyrgyzstan": {
+    "ox": 32.1,
+    "oy": -7.5,
+    "ha": "right",
+    "va": "center"
+  },
+  "Micronesia (Federated States of)": {
+    "ox": 48.9,
+    "oy": 15.1,
+    "ha": "right",
+    "va": "center"
+  },
+  "Russian Federation": {
+    "ox": 35.3,
+    "oy": 1.8,
+    "ha": "center",
+    "va": "center"
+  },
+  "Seychelles": {
+    "ox": -9.0,
+    "oy": 0.0,
+    "ha": "right",
+    "va": "center"
+  },
+  "Iran (Islamic Republic of)": {
+    "ox": 38.9,
+    "oy": 9.3,
+    "ha": "right",
+    "va": "center"
+  },
+  "Türkiye": {
+    "ox": 10.6,
+    "oy": -10.6,
+    "ha": "left",
+    "va": "top"
+  },
+  "Republic of Moldova": {
+    "ox": 44.6,
+    "oy": 3.6,
+    "ha": "center",
+    "va": "center"
+  },
+  "Ukraine": {
+    "ox": 47.5,
+    "oy": 9.6,
+    "ha": "center",
+    "va": "center"
+  },
+  "Poland": {
+    "ox": -14.4,
+    "oy": 6.5,
+    "ha": "left",
+    "va": "center"
+  },
+  "Hungary": {
+    "ox": 6.4,
+    "oy": -6.4,
+    "ha": "left",
+    "va": "center"
+  },
+  "Belarus": {
+    "ox": 6.4,
+    "oy": 6.4,
+    "ha": "left",
+    "va": "center"
+  },
+  "Austria": {
+    "ox": 15.8,
+    "oy": -43.5,
+    "ha": "center",
+    "va": "center"
+  },
+  "Latvia": {
+    "ox": 13.4,
+    "oy": 22.3,
+    "ha": "right",
+    "va": "center"
+  },
+  "Germany": {
+    "ox": -7.7,
+    "oy": 19.9,
+    "ha": "right",
+    "va": "center"
+  },
+  "Italy": {
+    "ox": 1.4,
+    "oy": -14.4,
+    "ha": "center",
+    "va": "center"
+  },
+  "Czechia": {
+    "ox": 25.8,
+    "oy": -20.3,
+    "ha": "right",
+    "va": "center"
+  },
+  "Switzerland": {
+    "ox": -27.4,
+    "oy": -44.2,
+    "ha": "center",
+    "va": "center"
+  },
+  "France": {
+    "ox": -11.2,
+    "oy": -1.4,
+    "ha": "right",
+    "va": "center"
+  },
+  "United Kingdom of Great Britain and Northern Ireland": {
+    "ox": -18.6,
+    "oy": -2.2,
+    "ha": "right",
+    "va": "center"
+  },
+  "Netherlands": {
+    "ox": -4.1,
+    "oy": 47.7,
+    "ha": "right",
+    "va": "center"
+  },
+  "Belgium": {
+    "ox": -33.4,
+    "oy": 40.0,
+    "ha": "right",
+    "va": "center"
+  },
+  "Spain": {
+    "ox": -4.3,
+    "oy": 6.1,
+    "ha": "center",
+    "va": "center"
+  },
+  "Ireland": {
+    "ox": -21.2,
+    "oy": 12.5,
+    "ha": "right",
+    "va": "center"
+  },
+  "Portugal": {
+    "ox": -9.0,
+    "oy": 0.0,
+    "ha": "right",
+    "va": "center"
+  },
+  "Sweden": {
+    "ox": 1.8,
+    "oy": 19.8,
+    "ha": "right",
+    "va": "center"
+  },
+  "Denmark": {
+    "ox": -3.7,
+    "oy": 22.4,
+    "ha": "right",
+    "va": "center"
+  },
+  "Mauritius": {
+    "ox": 9.0,
+    "oy": 0.0,
+    "ha": "left",
+    "va": "center"
+  },
+  "Nigeria": {
+    "ox": 0.0,
+    "oy": -9.0,
+    "ha": "center",
+    "va": "center"
+  },
+  "Benin": {
+    "ox": 3.8,
+    "oy": 9.2,
+    "ha": "right",
+    "va": "center"
+  },
+  "Australia": {
+    "ox": 0.0,
+    "oy": -9.0,
+    "ha": "center",
+    "va": "center"
+  },
+  "Panama": {
+    "ox": -9.0,
+    "oy": 0.0,
+    "ha": "right",
+    "va": "center"
+  },
+  "Cuba": {
+    "ox": 9.0,
+    "oy": 0.0,
+    "ha": "left",
+    "va": "center"
+  },
+  "Mexico": {
+    "ox": -9.0,
+    "oy": 0.0,
+    "ha": "right",
+    "va": "center"
+  },
+  "United States of America": {
+    "ox": 0.0,
+    "oy": -15.0,
+    "ha": "center",
+    "va": "top"
+  },
+  "Canada": {
+    "ox": -9.0,
+    "oy": 0.0,
+    "ha": "right",
+    "va": "center"
+  },
+  "Ecuador": {
+    "ox": 9.0,
+    "oy": 0.0,
+    "ha": "left",
+    "va": "center"
+  },
+  "Guyana": {
+    "ox": 0.0,
+    "oy": 9.0,
+    "ha": "center",
+    "va": "center"
+  },
+  "New Zealand": {
+    "ox": 0.0,
+    "oy": -9.0,
+    "ha": "center",
+    "va": "center"
+  },
+  "Kiribati": {
+    "ox": 15.6,
+    "oy": -7.5,
+    "ha": "right",
+    "va": "center"
+  },
+  "Peru": {
+    "ox": 9.0,
+    "oy": 0.0,
+    "ha": "left",
+    "va": "center"
+  },
+  "South Africa": {
+    "ox": 0.0,
+    "oy": -9.0,
+    "ha": "center",
+    "va": "center"
+  },
+  "Zimbabwe": {
+    "ox": -9.0,
+    "oy": 0.0,
+    "ha": "right",
+    "va": "center"
+  },
+  "Zambia": {
+    "ox": -23.1,
+    "oy": 6.4,
+    "ha": "left",
+    "va": "center"
+  },
+  "Botswana": {
+    "ox": 9.0,
+    "oy": 0.0,
+    "ha": "left",
+    "va": "center"
+  },
+  "Namibia": {
+    "ox": -9.0,
+    "oy": 0.0,
+    "ha": "right",
+    "va": "center"
+  },
+  "Malawi": {
+    "ox": 16.6,
+    "oy": 10.0,
+    "ha": "right",
+    "va": "center"
+  },
+  "Madagascar": {
+    "ox": -11.0,
+    "oy": -9.8,
+    "ha": "left",
+    "va": "center"
+  },
+  "Brazil": {
+    "ox": 9.0,
+    "oy": 0.0,
+    "ha": "left",
+    "va": "center"
+  },
+  "Chile": {
+    "ox": -9.0,
+    "oy": 0.0,
+    "ha": "right",
+    "va": "center"
+  },
+  "Argentina": {
+    "ox": 9.0,
+    "oy": 0.0,
+    "ha": "left",
+    "va": "center"
+  }
+}

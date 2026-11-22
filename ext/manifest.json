@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "建筑案例提取",
+  "version": "1.0",
+  "description": "一键发送网页内容到建筑数据库进行案例提取",
+  "permissions": ["activeTab", "scripting"],
+  "host_permissions": ["http://localhost:9876/*"],
+  "action": {
+    "default_title": "提取本页案例"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+    "16": "icon-16.png",
+    "48": "icon-48.png",
+    "128": "icon-128.png"
+  }
+}

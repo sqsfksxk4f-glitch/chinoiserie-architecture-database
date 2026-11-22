@@ -1,0 +1,58 @@
+# ===== Secrets & local config (never commit) =====
+config.local.json
+.claude/
+
+# ===== Working database (large, not the canonical dataset) =====
+architecture.db
+data.db
+data/*.db
+data/*.db-shm
+data/*.db-wal
+data/*.bak_*
+
+# ===== Downloaded / third-party content =====
+data/images/
+data/literature/
+data/vosk-model/
+data/keywords/
+图片下载/
+
+# ===== Runtime artifacts / logs / checkpoints =====
+data/logs/
+data/img_cache/
+data/cases/
+data/*_checkpoint.json
+data/scholar_queue_keywords.json
+data/verification_master.json
+data/_verify_instructions.txt
+*.log
+__pycache__/
+*.pyc
+*.pyo
+
+# ===== Intermediate search products =====
+data/chunk*.txt
+data/wave2_*.json
+
+# ===== One-off data-cleaning scripts (root) =====
+fix_*.py
+backfill_*.py
+restore_*.py
+clean_raw_case_ids.py
+add_condition_columns.py
+geocode_coordinates.py
+refill_reasons.py
+update_supplementary_table.py
+verify_name_city.py
+test_search_filter.py
+
+# ===== One-off scripts in data/ =====
+data/*.py
+
+# ===== Paper / submission / internal docs (not for code repo) =====
+论文/
+sd_data_descriptor/
+*.docx
+
+# ===== macOS =====
+.DS_Store
